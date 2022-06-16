@@ -1,16 +1,32 @@
 {
   "files": {
-    "main.css": "/li/static/css/main.073c9b0a.css",
-    "main.js": "/li/static/js/main.43a2d297.js",
+    "main.css": "/li/static/css/main.0d4f11a8.css",
+    "main.js": "/li/static/js/main.b2be407e.js",
     "static/js/787.0f4dceba.chunk.js": "/li/static/js/787.0f4dceba.chunk.js",
+    "static/media/controls.jpg": "/li/static/media/controls.8285d9c2ee3ca5b6c1dd.jpg",
+    "static/media/accessories.jpg": "/li/static/media/accessories.1740b3a51ac32206d262.jpg",
+    "static/media/store.jpg": "/li/static/media/store.d59f6329e589aff6bc61.jpg",
+    "static/media/deals.jpg": "/li/static/media/deals.642e95eb1fd4a89c6a2b.jpg",
+    "static/media/console.jpg": "/li/static/media/console.382919f47dcf5ba7e9cc.jpg",
+    "static/media/games.jpg": "/li/static/media/games.57363f44074b68631013.jpg",
+    "static/media/tombrider.jpg": "/li/static/media/tombrider.7a43b1cc371651539433.jpg",
+    "static/media/img2.jpg": "/li/static/media/img2.46805f0b9a41431943bd.jpg",
+    "static/media/gamepass.jpg": "/li/static/media/gamepass.a1a3143550186a4c92fc.jpg",
+    "static/media/img1.jpg": "/li/static/media/img1.63a667723bb8cbbf2a7b.jpg",
+    "static/media/nfsheat.jpg": "/li/static/media/nfsheat.74b2405448f6acb6018b.jpg",
+    "static/media/farcry.jpg": "/li/static/media/farcry.0e9d11c207b8db21d634.jpg",
+    "static/media/witcher.jpg": "/li/static/media/witcher.063b6629380d135c3024.jpg",
+    "static/media/cod.jpg": "/li/static/media/cod.9a238d27e3b66495434e.jpg",
+    "static/media/yakuza.jpg": "/li/static/media/yakuza.97b840460edf087a329c.jpg",
+    "static/media/fifa.jpg": "/li/static/media/fifa.0e25ea10d0905fa12f28.jpg",
     "static/media/logo.svg": "/li/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/li/index.html",
-    "main.073c9b0a.css.map": "/li/static/css/main.073c9b0a.css.map",
-    "main.43a2d297.js.map": "/li/static/js/main.43a2d297.js.map",
+    "main.0d4f11a8.css.map": "/li/static/css/main.0d4f11a8.css.map",
+    "main.b2be407e.js.map": "/li/static/js/main.b2be407e.js.map",
     "787.0f4dceba.chunk.js.map": "/li/static/js/787.0f4dceba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.43a2d297.js"
+    "static/css/main.0d4f11a8.css",
+    "static/js/main.b2be407e.js"
   ]
 }
