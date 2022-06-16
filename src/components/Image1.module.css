@@ -1,0 +1,12 @@
+.images{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    position: relative;
+    top: 1rem;
+}
+
+.image{
+    width: 50%;
+    height: auto;
+}
