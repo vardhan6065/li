@@ -8,6 +8,7 @@ import CardsContainer from './components/CardsContainer';
 import VenueContainer from './components/GamesearchContainer';
 import Footer from './components/Footer';
 import Content from './components/Content';
+import ExploreContainer from './components/ExploreContainer';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Header/>
       <Image1/>
       <CardsContainer/>
+      <ExploreContainer/>
       <VenueContainer/>
       <Content/>
       <span className='contact'>Contact Us</span>
